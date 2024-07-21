@@ -1,2 +1,2 @@
-# silenct_GPS
-silen GPS 
+# silent_GPS
+silent GPS 
